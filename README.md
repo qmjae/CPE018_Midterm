@@ -13,6 +13,7 @@ Create two directories for the learned algorithms (ORB and FAST):
 Step 2:
 Access the ORB and FAST subfolders:
 *emotions(subfolder) = should contain dataset for the emotion detection
+
 ![image](https://github.com/qmjae/CPE018_Midterm/assets/142195148/118ee912-ff8d-46dc-86eb-cedd3434d302)
 
 For ORB:
