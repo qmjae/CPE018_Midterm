@@ -2,6 +2,10 @@
 
 Download the requirements/files
 
+Prerequisites:
+Create a dataset, use the python file "dataset.py" to generate a dataset.
+
+
 Step 1:
 Create two directories for the learned algorithms (ORB and FAST):
 ![image](https://github.com/qmjae/CPE018_Midterm/assets/142195148/54fa757e-3db9-43f0-9f36-5c7c1d304776)
