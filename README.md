@@ -1,5 +1,6 @@
 # CPE018_Midterm
-# Download the requirements/files
+
+Download the requirements/files
 
 Step 1:
 Create two directories for the learned algorithms (ORB and FAST):
